@@ -1,8 +1,8 @@
-a3e84e8fa1e07b35a33d85f0fcde3fb8 *DESCRIPTION
+c4bc3ad0b7f00200992912fc52595251 *DESCRIPTION
 f5d8788bc5890ffdf03e68b1ea781b46 *LICENSE
 4f52df3a7fe19fa566063c683c1e042c *NAMESPACE
-5dad37cfca531b8011b3f6320e084882 *NEWS.md
-04b3113c8fa51b64bc0d55eac9bed525 *R/data.R
+721bd3efaf9a6a906d88ff1a4c4cdbb0 *NEWS.md
+6c60bb7b5ab7bc479e4ef51c06c601c9 *R/data.R
 ee4a6e870eb71df85ec5e452ab46d772 *R/get_replication_file.R
 83374d3e93430ba048e27909439a7499 *R/helpers-bayesian-regression.R
 df6e2becef3a89c112058c7ed7e6ac3a *R/helpers-causal-forests.R
@@ -24,6 +24,7 @@ bac8be5d6fdc17cd4d3bd0e560db59be *data/bonilla_tillery.rda
 913145be5bce040d383eb2d6e261bf4d *data/fairfax.rda
 988d93cb6feaf13371e3fdf975efcf26 *data/foos_etal.rda
 4975ab5a9b240b67a6f144103811a070 *data/la_voter_file.rda
+82c4d8e83b5da68b983bf28538ca9ed5 *data/lapop_brazil.rda
 a62173296e99f9dab7594d81c4d20af5 *man/add_parens.Rd
 f947dc33275cf08a971809891b6de4e3 *man/best_predictor.Rd
 d8aa4435d03bb8d3ad8c2c91dc81d6e4 *man/bonilla_tillery.Rd
@@ -43,6 +44,7 @@ dbf91dc92e3dc71fdb85966ccef439ab *man/get_rdss_file.Rd
 b8ea0df5e1c6c418a24058237e5ffb17 *man/hex_add_alpha.Rd
 103d7d4c4c3e2cac55a0c4b74569dac3 *man/la_voter_file.Rd
 dc21e0e2ab5176c46c97ddd75c93a720 *man/lag_by_group.Rd
+1998785376daef780554781b0b30c0ab *man/lapop_brazil.Rd
 94f5e4750f70c26952d7d8734ec879da *man/make_interval_entry.Rd
 1018a0768a2f6662a1bd5482c032cdc3 *man/make_se_entry.Rd
 0eb75fff56ca0b08d6f77b887c7cff8d *man/post_stratification_helper.Rd
