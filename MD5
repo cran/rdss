@@ -1,9 +1,9 @@
-a88e45df51fd0537c6b0df25e921402f *DESCRIPTION
+bd5850007e4758df92003c2241ef8fa2 *DESCRIPTION
 f5d8788bc5890ffdf03e68b1ea781b46 *LICENSE
 28b44640bcd9ec6ebf96532225356ad7 *NAMESPACE
-54a645837b2b24d270e480c40e0bdbd3 *NEWS.md
-6c60bb7b5ab7bc479e4ef51c06c601c9 *R/data.R
-2784fccadabd1661bb02113426dd667a *R/get_replication_file.R
+4ddd7e117f5c62b71e9bbb760904d87a *NEWS.md
+37834ff629de735b6321ee73f46bf13b *R/data.R
+20243ccf1bfe0cbd43ca1be8266654a8 *R/get_replication_file.R
 83374d3e93430ba048e27909439a7499 *R/helpers-bayesian-regression.R
 df6e2becef3a89c112058c7ed7e6ac3a *R/helpers-causal-forests.R
 e322ef894dc743794db2431f0c39ab08 *R/helpers-conjoint-experiments.R
@@ -29,7 +29,7 @@ a62173296e99f9dab7594d81c4d20af5 *man/add_parens.Rd
 f947dc33275cf08a971809891b6de4e3 *man/best_predictor.Rd
 d8aa4435d03bb8d3ad8c2c91dc81d6e4 *man/bonilla_tillery.Rd
 e8d1200bd373e29975906bbf96fa978e *man/causal_forest_handler.Rd
-7ccecbe8769050f370332416e402c771 *man/clingingsmith_etal.Rd
+de5c2c70f43ea1c0800eceba079336c8 *man/clingingsmith_etal.Rd
 fb1363d43a9527420538349eb6e0bb6d *man/conjoint_assignment.Rd
 2c5b9df81a4767dee5010277e7ffa5ba *man/conjoint_inquiries.Rd
 853eb36db8a9e3580c24a845d1b22ddc *man/conjoint_measurement.Rd
@@ -40,7 +40,7 @@ b8e751cd0429cc9ce28be4331d40d96d *man/estimator_AS_tidy.Rd
 1cf2f5b5bcd060327a99b88f65cf3674 *man/foos_etal.Rd
 2a2262dbf36a6a5edc1cf53c2da99473 *man/format_num.Rd
 2ab497e54d17deb3bd544e77afd09a78 *man/get_exposure_AS.Rd
-975add05eefe4f6543450adb01ccc0e2 *man/get_rdss_file.Rd
+084e88fe012dedd9ec5c46cbf9eb2680 *man/get_rdss_file.Rd
 b8ea0df5e1c6c418a24058237e5ffb17 *man/hex_add_alpha.Rd
 103d7d4c4c3e2cac55a0c4b74569dac3 *man/la_voter_file.Rd
 dc21e0e2ab5176c46c97ddd75c93a720 *man/lag_by_group.Rd
@@ -66,5 +66,5 @@ ee255e8f2f81f8d2fe22d5a9cc225e16 *tests/testthat/test-causal-forests.R
 144ef24ecf49eed994703acd640e2b43 *tests/testthat/test-experiments-over-networks.R
 c493f4bfd3dd3aa9274bb71e97aecdf1 *tests/testthat/test-meta-analysis.R
 52d58af963403f12cdb3a3ea5235661d *tests/testthat/test-multilevel-regression-poststratification.R
+415ad351be138674ff2e6a7b824e4d80 *tests/testthat/test-process-tracing.R
 4061c03c15061d78d9b175706eb31dbb *tests/testthat/test-regression-discontinuity.R
-9742bfa2b2218666707c4d5734a7d500 *tests/testthat/test-zzz-process-tracing.R
