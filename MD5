@@ -1,7 +1,7 @@
-bd5850007e4758df92003c2241ef8fa2 *DESCRIPTION
+0ae9bdc44a9eb2a9487b9e81d9db5421 *DESCRIPTION
 f5d8788bc5890ffdf03e68b1ea781b46 *LICENSE
-28b44640bcd9ec6ebf96532225356ad7 *NAMESPACE
-4ddd7e117f5c62b71e9bbb760904d87a *NEWS.md
+08960bf3e547d7f370df0f33c62cf7de *NAMESPACE
+1dbae0c664f8833891dcfa617934f142 *NEWS.md
 37834ff629de735b6321ee73f46bf13b *R/data.R
 20243ccf1bfe0cbd43ca1be8266654a8 *R/get_replication_file.R
 83374d3e93430ba048e27909439a7499 *R/helpers-bayesian-regression.R
@@ -10,7 +10,7 @@ e322ef894dc743794db2431f0c39ab08 *R/helpers-conjoint-experiments.R
 f694830d509b23a917c9b241f0203104 *R/helpers-difference-in-differences.R
 b13cb5d95fcc6447df5ed78d0566a0a7 *R/helpers-experiments-over-networks.R
 5ec635120174443246e7e6edcadc43a3 *R/helpers-meta-analysis.R
-c66465ebfa8e022417efb5452c888c5d *R/helpers-multilevel-regression-poststratification.R
+04077735b1d64a186226bcaa7928da3f *R/helpers-multilevel-regression-poststratification.R
 ad235bc03448e19ed43fc5a86de22d2e *R/helpers-process-tracing.R
 24ca3a718d855214f243f9d450eadb9e *R/helpers-regression-discontinuity.R
 42c9d5b7479c9658a31eb73984975e56 *R/helpers-stanreg.R
